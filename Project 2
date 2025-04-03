@@ -1,3 +1,12 @@
+# Name: Yuxin Liu, William Sun, Jason Feng
+# Assignment: Project 2: Simulated Election
+# Date: 04/03/2025
+#
+# Team Members Role:
+# 
+#
+
+
 import csv
 import os
 import matplotlib.pyplot as plt
